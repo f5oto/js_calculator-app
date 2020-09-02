@@ -10,7 +10,7 @@ This is a simple calculator app uses vuln components
 3. Set the npm proxy via command line
 <code>npm config set proxy http://localhost:8081/repository/npm-group/</code>
 
-4. log in to npm real
+4. log in to npm realm
 <code>npm login</code>
 
 5. Navigate inside the application folder and run:
