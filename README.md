@@ -4,7 +4,7 @@ Simple calculator app
 This is a simple calculator app uses vuln components
 
 1. Enable the "npm bearer login realm"
-<code> NXRM settings > Realms > npm bearer token realm > Add > Save
+<code> NXRM settings > Realms > npm bearer token realm > Add > Save</code>
 2. Configure your nexus repo (group for example with proxy as a member)
    OPTIONAL: You can enable FW capability to demo failure of lodash
 3. Set the npm proxy via command line
